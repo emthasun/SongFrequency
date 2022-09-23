@@ -1,2 +1,1 @@
 # GitHubCC
- //tutorials
